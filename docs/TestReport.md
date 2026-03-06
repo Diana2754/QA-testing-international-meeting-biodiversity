@@ -52,10 +52,10 @@ Durante esta ejecución se evaluaron las siguientes funcionalidades del sitio:
 
 ## Métricas de Testing
 
-- Casos de prueba ejecutados: 35
-- Casos aprobados: 21
-- Casos fallidos: 9
-- Casos bloqueados: 5
+- Casos de prueba ejecutados: 15
+- Casos aprobados: 9
+- Casos fallidos: 2
+- Casos bloqueados: 0
 
 - Bugs críticos: 1
 - Bugs altos: 1
