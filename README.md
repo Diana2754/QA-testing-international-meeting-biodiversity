@@ -143,6 +143,5 @@ Clear bug reporting
 Author
 
 QA Portfolio Project
-Created by: Tu Nombre
+Created by: Diana Alali
 
-Aspiring QA Tester with training in manual testing and software development fundamentals.
